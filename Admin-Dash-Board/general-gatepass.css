@@ -1,0 +1,28 @@
+#title{
+    color: rgb(7, 101, 129);
+    font-family: 'Times New Roman', Times, serif;
+}
+form div label{
+    color: crimson;
+    padding: 5px 0px;
+}
+form div .form-control:not(select){
+    cursor: text;
+}
+form div .form-control{
+    border: 1px solid rgb(108, 6, 121);
+    box-shadow: 5px 5px 2px grey;
+}
+form button{
+    color: rgb(6, 82, 21);
+    background-color: rgb(180, 204, 180);
+    transition: all 0.2s linear;
+}
+form button:hover{
+    color: rgb(143, 183, 188);
+    background-color: rgb(12, 149, 39);
+    box-shadow: 4px 4px 2px rgb(245, 237, 237);
+}
+form div select{
+    cursor: pointer;
+}

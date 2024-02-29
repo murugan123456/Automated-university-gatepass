@@ -1,0 +1,11 @@
+h5 i{
+    color: rgb(103, 10, 113);
+}
+table{
+    background-color: aquamarine;
+    color: rgb(136, 41, 7);
+}
+table tr th{
+    color: crimson;
+    font-size: 18px;
+}
