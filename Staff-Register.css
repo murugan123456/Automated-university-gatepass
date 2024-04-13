@@ -1,0 +1,40 @@
+#sidebar-links li a i {
+    color: rgb(8, 110, 121);
+}
+#sidebar-links li a{
+    color:deeppink;
+}
+#title{
+    color: rgb(8, 97, 67);
+    font-family: 'Times New Roman', Times, serif;
+}
+form div label{
+    color: crimson;
+    padding: 5px 0px;
+}
+form div .form-control{
+    border: 1px solid rgb(54, 5, 61);
+    box-shadow: 5px 5px 2px grey;
+}
+form div .form-control:not(select){
+    cursor: text;
+}
+form button{
+    border: 1px solid green;
+    color: rgb(12, 149, 39);
+    background-color: darkseagreen;
+    box-shadow: 4px 4px 2px darkgrey;
+    transition: all 0.5s linear;
+    outline: none;
+    height: 30px;
+    font-size: 17px;
+    width: 120px;
+}
+form button:hover{
+    color: rgb(143, 183, 188);
+    background-color: rgb(12, 149, 39);
+    box-shadow: none;
+}
+form div select{
+    cursor: pointer;
+}

@@ -1,0 +1,18 @@
+#report .col-md-3 div{
+    margin: 10px 5px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 3px 3px 5px rgb(53, 40, 40);
+    width:90%;
+    height: 90%;
+}
+#title{
+    color: rgb(172, 10, 153);
+}
+#time{
+    color: rgb(4, 119, 68);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    
+}

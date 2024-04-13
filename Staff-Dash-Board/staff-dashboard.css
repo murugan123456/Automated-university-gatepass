@@ -1,0 +1,41 @@
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    outline: none;
+    border: none;
+}
+table{
+    border: none;
+    width: 100%;
+}
+table tr{
+    border-bottom: 1px solid rgb(11, 27, 49);
+}
+table tr:last-child{
+    border: none;
+}
+table tr td:first-child{
+    color: rgb(87, 94, 5);
+}
+table tr td:last-child{
+    color: rgb(8, 144, 132);
+}
+table tr td{
+    width: 50%;
+    font-size: 20px;
+    padding: 5px 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#std{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+.student{
+    border: 1px solid rgb(225, 231, 231);
+    border-radius:10px ;
+    padding:10px 10px;
+    box-shadow: 5px 5px 10px grey;
+}
